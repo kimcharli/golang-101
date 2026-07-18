@@ -1,0 +1,8 @@
+go 1.19
+
+use (
+	./003-config
+	./004-htmx
+	./mod101/hello
+	./templates/template001/REST
+)

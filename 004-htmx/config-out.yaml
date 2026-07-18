@@ -1,0 +1,9 @@
+name: default
+timestamp: Mon Jan  9 20:18:01 2023
+apstra:
+    host: 172.16.40.131
+    port: "443"
+    username: admin
+    password: admin
+webserver:
+    port: "8080"
